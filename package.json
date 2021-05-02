@@ -1,0 +1,9 @@
+{
+  "name": "feat-finder",
+  "version": "0.1.0",
+  "description": "D&D 5e Feats",
+  "repository": "git@github.com:cypherix93/feat-finder.git",
+  "author": "cypherix93 <bikram.ghosh93@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
